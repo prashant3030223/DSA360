@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "DSA360 — DSA Sheet",
+  "short_name": "DSA360",
+  "description": "A public, personal DSA practice sheet with progress saved on your device.",
+  "start_url": "/sheet/dsa-sheet",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
